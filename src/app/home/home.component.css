@@ -1,0 +1,49 @@
+.startbutton{
+    text-align: center;
+    padding: 10px;
+}
+
+.click{
+    border-radius: 10px;
+    background-color:  rgb(88, 88, 245);
+    border-color: rgb(88, 88, 245);
+    color: white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: bold;
+  }
+
+  .para{
+    font-size:1rem;
+    font-weight:normal;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.box{
+    display:grid;
+    background-color:white;
+    border-radius: 20px;
+
+}
+
+h2{
+    font-weight: bolder;
+    color: green;
+}
+
+h1{
+    color: rgb(118, 5, 80);
+    font-weight: 900;
+    font-style: italic;
+}
+
+h4{
+    padding-left: 80px;
+}
+
+.head{
+    padding:20px;
+}

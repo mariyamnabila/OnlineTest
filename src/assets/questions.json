@@ -1,0 +1,44 @@
+[
+  {
+    "questionNo":1,
+    "questionDesc": "Which of the following statement is correct for AngularJS?",
+    "choice1": "AngularJS is an HTML framework",
+    "choice2": "AngularJS is an HTML framework",
+    "choice3": "AngularJS is a JavaScript framework",
+    "choice4": "AngularJS is a SQL framework"
+  },
+  {
+    "questionNo":2,
+    "questionDesc": "Which of the following directive is used to bind the application data to the HTML view in AngularJS?",
+    "choice1": "ng-app directive",
+    "choice2": "ng-model directive",
+    "choice3": "ng-bind directive",
+    "choice4": "ng-init directive"
+  },
+  {
+    "questionNo":3,
+    "questionDesc": "Which of the following is used to share data between controller and view in AngularJS?",
+    "choice1": "using Model",
+    "choice2": "using services",
+    "choice3": "using factory",
+    "choice4": "using $scope"
+  },
+  {
+    "questionNo":4,
+    "questionDesc": "Who is known as the father of AngularJS?",
+    "choice1": "Brad Green",
+    "choice2": "Misko Hevery",
+    "choice3": "Adam Abrons",
+    "choice4": "Mike Adams"
+  },
+  
+  {
+    "questionNo":5,
+    "questionDesc": "Which of the following community Angular JS belong to?",
+    "choice1": "Twitter",
+    "choice2": "Facebook",
+    "choice3": "Google",
+    "choice4": "Microsoft"
+  }
+  
+]

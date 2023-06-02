@@ -1,0 +1,41 @@
+.finish{text-align: center;}
+
+.para{
+    font-size:1.5rem;
+    font-weight: normal;
+}
+h2{
+    text-align: center;
+    font-weight:bolder;
+    font-style: italic;
+    color: rgb(247, 247, 250);
+    background-color:cornflowerblue;
+    border-radius: 12px;
+}
+
+b{
+    color: rgb(42, 19, 193);
+}
+
+.click{
+    border-radius: 10px;
+    background-color: rgb(88, 88, 245);
+    border-color:rgb(88, 88, 245);
+    color: white;
+    padding-left:20px;
+    padding-right:20px;
+    padding-top:5px;
+    padding-bottom:5px;
+    font-weight: bold;
+  }
+
+  .score{
+    color: rgb(18, 18, 223);
+    background-color:limegreen;  
+    padding: 2px;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    border-radius: 10px;
+   
+}
